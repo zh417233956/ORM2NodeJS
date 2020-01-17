@@ -13,7 +13,7 @@ npm install
 # 同步表结构
 node db/sync.js
 # 初始化数据
-node initData.js
+node db/initData.js
 # 启动
 node app.js
 
